@@ -37,6 +37,20 @@ visual style, verified on-model by machine before you ever see the result.
 
 Runs are resumable: only unfinished shots are regenerated.
 
+## Gallery
+
+Every image below was produced by this skill's own pipeline (spec → generate
+→ on-model verify → gate) with the codex engine.
+
+| | | |
+|---|---|---|
+| <img src="_assets/gallery/klik-deploy.png" width="260"> | <img src="_assets/gallery/klik-flaky-test.png" width="260"> | <img src="_assets/gallery/klik-pipeline.png" width="260"> |
+| _Klik · deploy day (editorial)_ | _Klik · the flaky test (mini-comic)_ | _Klik · deploy pipeline (flowchart)_ |
+| <img src="_assets/gallery/bugsi-triage.png" width="260"> | <img src="_assets/gallery/bugsi-debug-stages.png" width="260"> | <img src="_assets/gallery/garuda-nest.png" width="260"> |
+| _Bugsi · triage (editorial)_ | _Bugsi · reproduce → isolate → fix (explainer)_ | _Garuda · building the nest (editorial)_ |
+| <img src="_assets/gallery/garuda-flight.png" width="260"> | <img src="_assets/gallery/pijar-launch.png" width="260"> | <img src="_assets/gallery/klik-sticker.png" width="260"> |
+| _Garuda · shipping worldwide (pack)_ | _Pijar · launch (pack)_ | _Klik · sticker cutout (transparent)_ |
+
 ## Install
 
 Any one of:
