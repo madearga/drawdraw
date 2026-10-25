@@ -1,0 +1,20 @@
+{
+  "name": "sketsa",
+  "version": "0.3.1",
+  "description": "Editorial illustrations where a recurring mascot performs the idea \u2014 machine-verified on-model, with a character pack system. Free foundation ships the Klik mascot and a five-backend image engine, transparent cutouts, and a guided character builder: free generation through your ChatGPT (Codex) login via pi when available, Gemini/OpenRouter/OpenAI otherwise.",
+  "author": {
+    "name": "you",
+    "url": "https://github.com/you"
+  },
+  "homepage": "https://sketsa.dev",
+  "repository": "https://github.com/you/sketsa",
+  "license": "MIT",
+  "keywords": [
+    "illustration",
+    "editorial",
+    "image-generation",
+    "mascot",
+    "riso"
+  ],
+  "skills": "./skills"
+}

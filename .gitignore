@@ -1,0 +1,13 @@
+.DS_Store
+illo-build/
+.env
+node_modules/
+__pycache__/
+__pycache__/
+
+# installed character packs (user/paid content, not foundation)
+skills/sketsa/characters/packs/
+skills/sketsa/settings.json
+
+# engine output dirs
+.pi/

@@ -1,0 +1,19 @@
+{
+  "name": "sketsa",
+  "version": "0.3.1",
+  "description": "Editorial illustrations where a recurring mascot performs the idea \u2014 machine-verified on-model, with a character pack system. Free foundation ships the Klik mascot and a five-backend image engine, transparent cutouts, and a guided character builder.",
+  "author": {
+    "name": "you"
+  },
+  "homepage": "https://sketsa.dev",
+  "repository": "https://github.com/you/sketsa",
+  "license": "MIT",
+  "keywords": [
+    "illustration",
+    "editorial",
+    "riso",
+    "image-generation",
+    "mascot"
+  ],
+  "skills": "./skills"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "sketsa",
+  "owner": {
+    "name": "you",
+    "url": "https://github.com/you"
+  },
+  "metadata": {
+    "description": "Marketplace for the Sketsa editorial-illustration skill",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "sketsa",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/you/sketsa.git"
+      },
+      "description": "Editorial illustrations with a recurring mascot, machine-verified on-model. Free foundation; original character packs sold separately.",
+      "version": "0.2.0",
+      "author": { "name": "you" },
+      "homepage": "https://sketsa.dev",
+      "license": "MIT",
+      "category": "creative"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "packs": [
+    {
+      "name": "klik",
+      "author": "Sketsa",
+      "version": "0.1.1",
+      "description": "A rounded arrow-cursor: the pointer that gets things moving. Clicks, choices, launches \u2014 the moment an idea gets selected.",
+      "style": "riso",
+      "aliases": [
+        "cursor",
+        "pointer"
+      ],
+      "cutout_chroma": "magenta",
+      "builtin": true
+    }
+  ]
+}
