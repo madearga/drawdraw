@@ -1,7 +1,16 @@
 {
   "store_url": "https://sketsa.dev/packs",
   "packs": [
-    { "name": "bugsi", "price": "$9", "url": "https://sketsa.dev/packs/bugsi" }
+    {
+      "name": "bugsi",
+      "price": "$9",
+      "url": "https://sketsa.dev/packs/bugsi"
+    },
+    {
+      "name": "pijar",
+      "price": "$9",
+      "url": "https://sketsa.dev/packs/pijar"
+    }
   ],
   "note": "Edit this file once with your real store URLs (Gumroad/Lemon Squeezy). The upsell line in SKILL.md reads it."
 }
